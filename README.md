@@ -20,13 +20,13 @@ A simple web-based music player application built using Vue.js. This project all
 - Favorite tracks.
 - ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot%20(79).png)
+![Screenshot 1](https://github.com/ab9106/music-player/blob/main/Screenshot%20(79).png)
 
-![Screenshot 2](screenshots/Screenshot%20(80).png)
+![Screenshot 2](https://github.com/ab9106/music-player/blob/main/Screenshot%20(80).png)
 
-![Screenshot 3](screenshots/Screenshot%20(81).png)
+![Screenshot 3](https://github.com/ab9106/music-player/blob/main/Screenshot%20(81).png)
 
-![Screenshot 4](screenshots/Screenshot%20(82).png)
+![Screenshot 4](https://github.com/ab9106/music-player/blob/main/Screenshot%20(82).png)
 
 
 ## Demo
