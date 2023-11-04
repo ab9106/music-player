@@ -23,7 +23,7 @@ new Vue({
             name: "Desi kalakar ",
             artist: "YO YO Honey singh",
             cover: "Desi-Kalakaar-Hindi-2014-500x500.jpg",
-            source: "music/128-Desi Kalakaar - Desi Kalakaar 128 Kbps.mp3",
+            source: "128-Pee Loon Hoto Ki Sargam - Once Upon A Time In Mumbaai 128 Kbps.mp3",
             url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
             favorited: true
           },
