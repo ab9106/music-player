@@ -18,6 +18,16 @@ A simple web-based music player application built using Vue.js. This project all
 - Search for tracks by name or artist.
 - Display track information and cover art.
 - Favorite tracks.
+- ## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%20(79).png)
+
+![Screenshot 2](screenshots/Screenshot%20(80).png)
+
+![Screenshot 3](screenshots/Screenshot%20(81).png)
+
+![Screenshot 4](screenshots/Screenshot%20(82).png)
+
 
 ## Demo
 
