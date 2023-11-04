@@ -31,7 +31,7 @@ A simple web-based music player application built using Vue.js. This project all
 
 ## Demo
 
-You can try out the [https://music-player-rust-omega.vercel.app/](#) by following the provided link.
+You can try out the [https://music-player-rust-omega.vercel.app/](#) by copying and pasting  the provided link to your browser.
 
 ## Getting Started
 
