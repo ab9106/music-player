@@ -15,7 +15,7 @@ new Vue({
             name: "One Love",
             artist: "Shubh",
             cover: "51QEZ5G10cL._UXNaN_FMjpg_QL85_.jpg",
-            source: "music/One Love.mp3",
+            source: "One Love.mp3",
             url: "https://youtu.be/0pWsCiBvLOk?si=HQzaC-o_Dh_1BNLV",
             favorited: false
           },
@@ -23,7 +23,7 @@ new Vue({
             name: "Desi kalakar ",
             artist: "YO YO Honey singh",
             cover: "Desi-Kalakaar-Hindi-2014-500x500.jpg",
-            source: "128-Pee Loon Hoto Ki Sargam - Once Upon A Time In Mumbaai 128 Kbps.mp3",
+            source: "128-Desi Kalakaar - Desi Kalakaar 128 Kbps.mp3",
             url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
             favorited: true
           },
@@ -32,7 +32,7 @@ new Vue({
             name: "Saware",
             artist: "Arijit Singh,pritam",
             cover: "saware-phantom.jpg",
-            source: "music/Saware - Phantom 128 Kbps.mp3",
+            source: "Saware - Phantom 128 Kbps.mp3",
             url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
             favorited: false
           },
@@ -41,7 +41,7 @@ new Vue({
             name: "295",
             artist: "Sidhu Moosewala",
             cover: "295.jpg",
-            source: "music/295_1.mp3",
+            source: "295_1.mp3",
             url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
             favorited: true
           },
@@ -49,7 +49,7 @@ new Vue({
             name: "See you again",
             artist: "Wiz Khalifa",
             cover: "artworks-yeOBnmFyGyovASoQ-4xdMFQ-t500x500.jpg",
-            source: "music/See-You-Again(musicdownload.cc).mp3",
+            source: "See-You-Again(musicdownload.cc).mp3",
             url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
             favorited: false
           },
@@ -57,7 +57,7 @@ new Vue({
             name: "Shape Of You",
             artist: "Ed Sheeran",
             cover: "artworks-000202209096-m1x39j-t500x500.jpg",
-            source: "music/Shape-of-You-(Lofi)(PagalWorldl).mp3",
+            source: "Shape-of-You-(Lofi)(PagalWorldl).mp3",
             url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
             favorited: true
           },
@@ -65,7 +65,7 @@ new Vue({
             name: "Excuses",
             artist: "AP Dhillon",
             cover: "sExcuses.jpg",
-            source: "music/Excuses_1.mp3",
+            source: "Excuses_1.mp3",
             url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
             favorited: false
           },
@@ -73,7 +73,7 @@ new Vue({
             name: "Laal Bindi",
             artist: "AKULL",
             cover: "crop_480x480_2123757.jpg",
-            source: "music/Laal Bindi - DjPunjab.Com.Se.mp3",
+            source: "Laal Bindi - DjPunjab.Com.Se.mp3",
             url: "https://youtu.be/0pWsCiBvLOk?si=HQzaC-o_Dh_1BNLV",
             favorited: false
           },
@@ -81,7 +81,7 @@ new Vue({
             name:"Pee Loon",
             artist: "Pritam, Mohit Chauhan",
             cover: "desktop-wallpaper-milan-luthria-on-twitter-pee-loon.jpg",
-            source: "music/128-Pee Loon Hoto Ki Sargam - Once Upon A Time In Mumbaai 128 Kbps.mp3",
+            source: "128-Pee Loon Hoto Ki Sargam - Once Upon A Time In Mumbaai 128 Kbps.mp3",
             url: "",
             favorited: false
           },
