@@ -16,7 +16,7 @@ new Vue({
             artist: "Shubh",
             cover: "51QEZ5G10cL._UXNaN_FMjpg_QL85_.jpg",
             source: "One Love.mp3",
-            url: "https://youtu.be/0pWsCiBvLOk?si=HQzaC-o_Dh_1BNLV",
+            url: "https://youtu.be/0pWsCiBvLOk?si=gjmeo_3fkLummcwq",
             favorited: false
           },
           {
@@ -24,7 +24,7 @@ new Vue({
             artist: "YO YO Honey singh",
             cover: "Desi-Kalakaar-Hindi-2014-500x500.jpg",
             source: "128-Desi Kalakaar - Desi Kalakaar 128 Kbps.mp3",
-            url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
+            url: "https://youtu.be/KhnVcAC5bIM?si=MNqZjCNshMbsh4Me",
             favorited: true
           },
   
@@ -33,7 +33,7 @@ new Vue({
             artist: "Arijit Singh,pritam",
             cover: "saware-phantom.jpg",
             source: "Saware - Phantom 128 Kbps.mp3",
-            url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
+            url: "https://youtu.be/CsOsmgUmT9U?si=V1tUbyxKLbTO_798",
             favorited: false
           },
   
@@ -42,7 +42,7 @@ new Vue({
             artist: "Sidhu Moosewala",
             cover: "295.jpg",
             source: "295_1.mp3",
-            url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
+            url: "https://youtu.be/n_FCrCQ6-bA?si=3czOua9ngOwBib2Z",
             favorited: true
           },
           {
@@ -50,7 +50,7 @@ new Vue({
             artist: "Wiz Khalifa",
             cover: "artworks-yeOBnmFyGyovASoQ-4xdMFQ-t500x500.jpg",
             source: "See-You-Again(musicdownload.cc).mp3",
-            url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
+            url: "https://youtu.be/RgKAFK5djSk?si=aJZrJT1KkhZV6xSZ",
             favorited: false
           },
           {
@@ -58,7 +58,7 @@ new Vue({
             artist: "Ed Sheeran",
             cover: "artworks-000202209096-m1x39j-t500x500.jpg",
             source: "Shape-of-You-(Lofi)(PagalWorldl).mp3",
-            url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
+            url: "https://youtu.be/JGwWNGJdvx8?si=35tlSHIG9VSIBV0z",
             favorited: true
           },
           {
@@ -66,7 +66,7 @@ new Vue({
             artist: "AP Dhillon",
             cover: "sExcuses.jpg",
             source: "Excuses_1.mp3",
-            url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
+            url: "https://youtu.be/vX2cDW8LUWk?si=N5mvoV0UtXgxzrIM",
             favorited: false
           },
           {
@@ -74,7 +74,7 @@ new Vue({
             artist: "AKULL",
             cover: "crop_480x480_2123757.jpg",
             source: "Laal Bindi - DjPunjab.Com.Se.mp3",
-            url: "https://youtu.be/0pWsCiBvLOk?si=HQzaC-o_Dh_1BNLV",
+            url: "https://youtu.be/PAW_Gd3QVww?si=g7BxqU6s8XIaR-lA",
             favorited: false
           },
           {
@@ -82,7 +82,7 @@ new Vue({
             artist: "Pritam, Mohit Chauhan",
             cover: "desktop-wallpaper-milan-luthria-on-twitter-pee-loon.jpg",
             source: "128-Pee Loon Hoto Ki Sargam - Once Upon A Time In Mumbaai 128 Kbps.mp3",
-            url: "",
+            url: "https://youtu.be/D8XFTglfSMg?si=L8iyIUiNE9KTw8j5",
             favorited: false
           },
           
